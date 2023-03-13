@@ -7,9 +7,10 @@ import static org.junit.jupiter.api.Assertions.*;
 class RadnikTest {
 
 
-/*
+
     @Test
     public void radnikTest0() {
+
         Radnik radnik = new Radnik("Meho Mehić", "12345");
         assertEquals("Meho Mehić", radnik.getImePrezime());
 
@@ -108,7 +109,7 @@ class RadnikTest {
     }
 
 
- */
+
 }
 
 
